@@ -1,0 +1,22 @@
+{
+  "id": 13,
+  "user_id": 1,
+  "name": "Consultation Two",
+  "icon": "bi bi-book-half",
+  "currency": "INR",
+  "int_price": null,
+  "price": 599,
+  "capacity": "100",
+  "start_date": "2023-08-01",
+  "end_date": "2023-12-30",
+  "short_desc": "Detailed Consultation",
+  "desc": "A comprehensive course on numerology to deepen your understanding of numbers and their influence on life.",
+  "location": "Online",
+  "created_at": "2024-06-20T08:46:02.510959Z",
+  "updated_at": "2024-06-20T08:46:02.510981Z",
+  "duration": "90",
+  "is_online": true,
+  "is_active": true,
+  "slug": "consultation-two",
+  "service_type": "online"
+}
